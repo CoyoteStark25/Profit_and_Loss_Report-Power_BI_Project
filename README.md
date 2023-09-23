@@ -27,7 +27,6 @@ The following Power BI Features were incorporated:
 - Quick Measures,
 - Power Query(Conditional Columns,Merging Queries)
 - Page Navigation,
-- Modeling,
 - Filters,
 - Tooltips,
 - Buttons
